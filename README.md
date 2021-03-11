@@ -1,16 +1,17 @@
 ### Hi there 👋
+- 😎 My name is André Felipe, I'm from Brazil, I'm a student of Analisys and System Development actually on 3rd Period.
+- 🌱 I’m currently learning HTML5, CSS3, JavaScript and React
 
-<!--
-**Andref007/Andref007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate to solving problems and learning. Always open to new challenges 
+and ready to face changes.
+
+- 👊 1% per day! 
+- 🌎 From Fortaleza, Ceará, Brazil.
+
+- 📫 How to reach me:
+
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrefps/)](https://www.linkedin.com/in/andrefps/1/) 
+
+
