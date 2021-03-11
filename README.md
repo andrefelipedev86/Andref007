@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 😎 My name is André Felipe, I'm from Brazil, I'm a student of Analisys and System Development actually on 3rd Period.
+- 😎 My name is André Felipe, I'm a student of Analisys and System Development actually on 3rd Period.
 - 🌱 I’m currently learning HTML5, CSS3, JavaScript and React
 
 
