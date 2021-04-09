@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 😎 My name is André Felipe, I'm a student of Analisys and System Development actually on 3rd Period.
-- 🌱 I’m currently learning HTML5, CSS3, JavaScript and React
+- 🌱 I’m currently learning HTML5, CSS3, JavaScript, React, Git and Node.JS
 
 
 
